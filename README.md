@@ -1,2 +1,2 @@
-# meta-qwt
-QWT plugin for Qt5 for BitBake
+OpenEmbedded/Yocto Qwt layer for Qt5
+====================================
