@@ -1,2 +1,2 @@
-OpenEmbedded/Yocto Qwt layer for Qt5
-====================================
+OpenEmbedded/Yocto Qwt meta layer for Qt5
+=========================================
